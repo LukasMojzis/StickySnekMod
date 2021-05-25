@@ -1,0 +1,5 @@
+{
+  "Id": "StickySnek",
+  "Version": "1.0.0",
+  "EntryMethod": "StickySnek.Main.Load"
+}
