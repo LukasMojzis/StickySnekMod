@@ -13,21 +13,21 @@ For everyone else, once a feature is *Production Ready™* it will be added to t
 <details>
   <summary>Current completed features list</summary>
 
-  * None
+  * Goldbars try to excite their stored energy when you leave them behind
+  * Left variant of arm
 
 </details>
 
 <details>
   <summary>Almost completed features list</summary>
 
-  * Goldbars glowing
+  * Bunnies are glowing in the dark
 
 </details>
 
 <details>
   <summary>Work in progress features list</summary>
   
-  * Left/Right hand variety
   * Siphon hose binds items together (bi-directional hangy thing)
   
 </details>
